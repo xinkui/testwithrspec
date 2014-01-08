@@ -1,0 +1,15 @@
+ # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+ash_1:
+  message: ash_1test1
+  status: Eating Eyebrows
+  zombie_id: 1
+
+ash_2:
+  message: ash_1test2
+  status: Lurking 4 Brains
+  zombie_id: 1
+
+
+
+
